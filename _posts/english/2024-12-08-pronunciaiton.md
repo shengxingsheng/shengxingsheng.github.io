@@ -12,71 +12,72 @@ sitemap: false
 
 ## 韦氏音标
 
-|        | 韦氏[^00]  | sa[^01] |                                             | 备注 |
-| :----: | :--------: | :-----: | :-----------------------------------------: | :--: |
-|  元音  |   **ē**    |    i    |   be \ˈbē \ ; heel \ˈhēl\ ; easy \ˈē-zē \   |      |
-|        |   **i**    |    ɪ    |           it \\'it\ ; tip \ˈtip \           |      |
-|        |   **e**    |    ɛ    |    bed \ˈbed \ ; very vary [^11]\ˈver-ē\    |      |
-|        |   **a**    |    æ    | map \ˈmap\ ; aero arrow [^12]   \ˈer-(ˌ)ō \ |      |
-|        |   **ə**    |    ə    |                 ago \ə-ˈgō\                 |      |
-|        | **ə**[^13] |         |       open \ˈō-pən\, battle\ˈba-tᵊl \       |      |
-|        |   **ʌ**    |    ʌ    |                                             |      |
-|        |   **ä**    |    ɑ    |                 cot\\ˈkät\                  |      |
-|        |   **ü**    |    u    |              blue; rule\ˈrül\               |      |
-|        |   **u̇**    |    ʊ    |          pull\ˈpu̇l \ ;book\ˈbu̇k \           |      |
-|        |   **ȯ**    |    ɔ    |               all \ˈȯl \ ; on               |      |
-| 双元音 |   **ā**    |   eɪ    |                 day \ˈdā \,                 |      |
-|        |   **ō**    |   oʊ    |                 know \ˈnō\                  |      |
-|        |   **ī**    |   aɪ    |            file\ˈfī(-ə)l \ ; buy            |      |
-|        |   **au̇**   |   aʊ    |          now\ˈn**au̇**\, out\\'au̇t\          |      |
-|        |   **ȯi**   |   ɔɪ    |                 boy\ˈbȯi \                  |      |
-| 儿化音 |     ər     |    ɝ    |        first\ˈfərst\, after\ˈaf-tər\        |      |
-|        |            |    ɚ    |                                             |      |
-|        |   **ir**   |   ɪr    |                deer \ˈdir \                 |      |
-|        |   **er**   |   ɛr    |         wear/ˈwer /  ; chair/'cher/         |      |
-|        |   **är**   |   ɑr    |                 car/ˈkär /                  |      |
-|        |   **ȯr**   |   ɔr    |           or /ˈȯr / ; door/ˈdȯr /           |      |
-|        |   **u̇r**   |         |                sure\ˈshu̇r \                 |      |
-|  辅音  |   **p**    |    p    |                 pie \ˈpī \                  |      |
-|        |   **b**    |    b    |               baby \ˈbā-bē \                |      |
-|        |     t      |    t    |                 toy \ˈtȯi \                 |      |
-|        |   **d**    |    d    |                  do \ˈdü \                  |      |
-|        |     k      |    k    |                 cook \ˈku̇k\                 |      |
-|        |   **g**    |    g    |                  go \ˈgō \                  |      |
-|        |            |    t̬    |                                             |      |
-|        |            |    ʔ    |                                             |      |
-|        |   **f**    |    f    |                  fun \fən\                  |      |
-|        |            |    v    |                very \ˈve-rē\                |      |
-|        |     th     |    θ    |               think\ˈthiŋk \                |      |
-|        |     t͟h     |    ð    |                this \ˈt͟his \                |      |
-|        |     s      |    s    |                 sun\ˈsən \                  |      |
-|        |     z      |    z    |                  zoo\ˈzü \                  |      |
-|        |     sh     |    ʃ    |                 shy\\ˈshī \                 |      |
-|        |     zh     |    ʒ    |             vision \ˈvi-zhən \              |      |
-|        |   **h**    |    h    |                 hat \ˈhat \                 |      |
-|        |     ch     |   tʃ    |               chair \ˈcher \                |      |
-|        |     j      |   dʒ    |           job\ˈjäb \ ; edge\ˈej\            |      |
-|        |     n      |    n    |                  no \ˈnō \                  |      |
-|        |     m      |    m    |                 map \ˈmap\                  |      |
-|        |            |    ŋ    |                                             |      |
-|        |     l      |    l    |                 pool\ˈpül \                 |      |
-|        |     r      |    r    |                 run\ˈrən \                  |      |
-|        |            |    w    |                  way\ˈwā \                  |      |
-|        |     y      |    j    |                 yes\ˈyes \                  |      |
-|        |            |         |                                             |      |
-|        |            |         |                                             |      |
-|        |            |         |                                             |      |
+[韦氏词典](https://www.merriam-webster.com/) [牛津词典](https://www.oxfordlearnersdictionaries.com/definition/american_english/) [剑桥词典](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/) [有道词典](https://dict.youdao.com/)
+
+|        | 韦氏[^00] | kk[^02] | sa[^01] |             |            备注             |
+| :----: | :-------: | :-----: | :-----: | :---------: | :-------------------------: |
+|  元音  |   **ē**   |    i    |    i    |             |                             |
+|        |     i     |    ɪ    |    ɪ    |             |                             |
+|        |     e     |    ɛ    |    ɛ    | bed set beg |                             |
+|        |   **a**   |    æ    |    æ    | bad sat bag |                             |
+|        |     ə     |    ə    |    ə    |    idea     |                             |
+|        |  ə[^13]   |         |         |    open     |                             |
+|        |   'ə, ə   |    ʌ    |    ʌ    |    abut     | 韦氏音标中是ə的重音、次重音 |
+|        |   **ä**   |    ɑ    |    ɑ    |     got     |                             |
+|        |   **ȯ**   |    ɔ    |    ɔ    |     on      |                             |
+|        |   **u̇**   |    ʊ    |    ʊ    |             |                             |
+|        |   **ü**   |    u    |    u    |             |                             |
+| 双元音 |   **ā**   |   eɪ    |   eɪ    |             |                             |
+|        |   **ī**   |   aɪ    |   aɪ    |             |                             |
+|        |  **ȯi**   |   ɔɪ    |   ɔɪ    |             |                             |
+|        |  **au̇**   |   aʊ    |   aʊ    |             |                             |
+|        |   **ō**   |   oʊ    |   oʊ    |             |                             |
+| 儿化音 |    ər     |   ər    |    ɝ    |             |                             |
+|        |    ’ər    |   3r    |    ɚ    |             |         是ər的重音          |
+|        |  **ir**   |   ɪr    |   ɪr    |             |                             |
+|        |  **er**   |   ɛr    |   ɛr    |             |                             |
+|        |  **är**   |   ɑr    |   ɑr    |             |                             |
+|        |  **ȯr**   |   ɔr    |   ɔr    |             |                             |
+|        |  **u̇r**   |   ʊr    |         |    sure     |                             |
+|  辅音  |           |         |         |             |                             |
+|        |     b     |    p    |    p    |             |                             |
+|        |     b     |    b    |    b    |             |                             |
+|        |     t     |    t    |    t    |             |                             |
+|        |     d     |    d    |    d    |             |                             |
+|        |     k     |    k    |    k    |             |                             |
+|        |     g     |    g    |    g    |             |                             |
+|        |     f     |    f    |    f    |     fan     |                             |
+|        |     v     |    v    |    v    |     van     |                             |
+|        |  **th**   |    θ    |    θ    |    think    |                             |
+|        |  **t͟h**   |    ð    |    ð    |    this     |                             |
+|        |     s     |    s    |    s    |             |                             |
+|        |     z     |    z    |    z    |             |                             |
+|        |  **sh**   |    ʃ    |    ʃ    |             |                             |
+|        |  **zh**   |    ʒ    |    ʒ    |             |                             |
+|        |  **ch**   |   tʃ    |   tʃ    |             |                             |
+|        |   **j**   |   dʒ    |   dʒ    |             |                             |
+|        |           |         |    t̬    |             |                             |
+|        |           |         |    ʔ    |             |                             |
+|        |     h     |    h    |    h    |             |                             |
+|        |     w     |    w    |    w    |             |                             |
+|        |   **y**   |    j    |    j    |     yes     |                             |
+|  鼻音  |     m     |    m    |    m    |  meal aim   |                             |
+|        |     n     |    n    |    n    |    noun     |                             |
+|        |     ŋ     |    ŋ    |    ŋ    |    hang     |                             |
+|        |     r     |    r    |    r    |             |                             |
+|        |     l     |    l    |    l    |             |                             |
+|        |           |         |         |             |                             |
+|        |           |         |         |             |                             |
+|        |           |         |         |             |                             |
 
 [^00]:[韦氏音标pdf](https://merriam-webster.com/assets/mw/static/pdf/help/guide-to-pronunciation.pdf)
 [^01]:[sa美式音标发音参考](https://soundsamerican.net/)
+[^02]:[b站视频源地址](https://space.bilibili.com/433248184/lists/2544148?type=series)
 [^11]:许多英语变体不允许 \e\ 后面跟以 \r\ 开头的下一个音节。在这种情况下，\e-r\ 的序列被 \er\ 替换，并且像very 和vary 这样的单词对是同音词。这并不总是在转录中表明。读者应该假设对于此类说话者来说，任何 \e-r\ 序列都将是 \er\。
 [^12]: 许多英语变体不允许 \a\ 后面跟以 \r\ 开头的下一个音节。在这种情况下，\a-r\ 的序列被 \er\ 替换，并且像 arrow 和 aero 这样的单词对是同音词。这并不总是在转录中表明。读者应该假设任何 \a-r\ 序列对于此类说话人来说都是 \er\。当 \ŋ\ 之前时，\a\ 后面通常会跟一个 \y\ 声音。对于许多说话者来说，所得的元音听起来很像 \ā\
 [^13]:l\、\n\、\m\ 和 \ŋ\ 之前不发音
 
 
 
-## 常用在线词典
+------
 
-[韦氏词典](https://www.merriam-webster.com/)
-
-[牛津词典](https://www.oxfordlearnersdictionaries.com/)
