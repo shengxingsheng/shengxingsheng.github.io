@@ -10,20 +10,34 @@ published: true
 sitemap: false
 ---
 
+## 在线资源
+
+| 网站                                                         | 特点                 |
+| ------------------------------------------------------------ | -------------------- |
+| [韦氏词典](https://www.merriam-webster.com/)                 | 单词、音标按音节分开 |
+| [牛津词典](https://www.oxfordlearnersdictionaries.com/definition/american_english/) |                      |
+| [剑桥词典](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/) |                      |
+| [有道词典](https://dict.youdao.com/)                         |                      |
+| [ipa影像](https://sail.usc.edu/span/rtmri_ipa/)              | 核磁共振影像         |
+| [Dictionary](https://www.dictionary.com/)                    |                      |
+| [Forvo](https://forvo.com/)                                  | 真人发音             |
+
+
+
 ## 韦氏音标
 
-[韦氏词典](https://www.merriam-webster.com/) [牛津词典](https://www.oxfordlearnersdictionaries.com/definition/american_english/) [剑桥词典](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/) [有道词典](https://dict.youdao.com/)
+
 
 |        | 韦氏[^00] | kk[^02] | sa[^01] |             |            备注             |
 | :----: | :-------: | :-----: | :-----: | :---------: | :-------------------------: |
-|  元音  |   **ē**   |    i    |    i    |             |                             |
+|  元音  |   **ē**   |    i    |    i    |             |         嘴角两边咧          |
 |        |     i     |    ɪ    |    ɪ    |             |                             |
 |        |     e     |    ɛ    |    ɛ    | bed set beg |                             |
 |        |   **a**   |    æ    |    æ    | bad sat bag |                             |
-|        |     ə     |    ə    |    ə    |    idea     |                             |
+|        |     ə     |    ə    |    ə    | idea about  |                             |
 |        |  ə[^13]   |         |         |    open     |                             |
 |        |   'ə, ə   |    ʌ    |    ʌ    |    abut     | 韦氏音标中是ə的重音、次重音 |
-|        |   **ä**   |    ɑ    |    ɑ    |     got     |                             |
+|        |   **ä**   |    ɑ    |    ɑ    |     got     |          舌头后缩           |
 |        |   **ȯ**   |    ɔ    |    ɔ    |     on      |                             |
 |        |   **u̇**   |    ʊ    |    ʊ    |             |                             |
 |        |   **ü**   |    u    |    u    |             |                             |
@@ -77,7 +91,16 @@ sitemap: false
 [^12]: 许多英语变体不允许 \a\ 后面跟以 \r\ 开头的下一个音节。在这种情况下，\a-r\ 的序列被 \er\ 替换，并且像 arrow 和 aero 这样的单词对是同音词。这并不总是在转录中表明。读者应该假设任何 \a-r\ 序列对于此类说话人来说都是 \er\。当 \ŋ\ 之前时，\a\ 后面通常会跟一个 \y\ 声音。对于许多说话者来说，所得的元音听起来很像 \ā\
 [^13]:l\、\n\、\m\ 和 \ŋ\ 之前不发音
 
-
-
 ------
 
+### ə ʌ
+
+![](/assets/img/english/ʌ-1.png){: w="400" h="400"}
+
+![](/assets/img/english/ʌ-2.png){: w="400" h="400"}
+
+![](/assets/img/english/ʌ-3.png){: w="400" h="400"}
+
+
+
+### ē i / i ɪ
