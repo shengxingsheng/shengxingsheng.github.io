@@ -1,6 +1,6 @@
 ---
 layout: post
-title: pronunciaiton
+title: Pronunciaiton
 date: 2024-12-08 20:33 +0800
 description:
 image:
@@ -104,3 +104,4 @@ sitemap: false
 
 
 ### ē i / i ɪ
+
