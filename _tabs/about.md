@@ -9,6 +9,6 @@ order: 4
 
 {%
   include embed/audio.html
-  src='\assets\music\游戏人间 - 郑智化.mp3'
+  src='./music/游戏人间 - 郑智化.mp3'
   title='游戏人间 - 郑智化'
 %}
