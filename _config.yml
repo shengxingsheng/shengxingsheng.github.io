@@ -16,7 +16,7 @@ timezone: Asia/Shanghai
 
 title: Shengxing Sheng # the main title
 
-tagline: Game life # it will display as the subtitle
+tagline: 真相只有一个 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A personal blog by Shengxing Sheng.
@@ -34,7 +34,7 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: shengxingsheng
+  name: Shengxing Sheng
   email: 260s298s@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -98,11 +98,11 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: 'https://cdn.jsdelivr.net/gh/huanyushi/blog-images@main/img/avatar.jpg'
+avatar: '/assets/img/d.png'
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
-social_preview_image: "https://cdn.jsdelivr.net/gh/huanyushi/blog-images@main/img/avatar.jpg"# string, local or CORS resources
+social_preview_image: "https://cdn.jsdelivr.net/gh/huanyushi/blog-images@main/img/avatar.jpg" # string, local or CORS resources
 
 # boolean type, the global switch for TOC in posts.
 toc: true
