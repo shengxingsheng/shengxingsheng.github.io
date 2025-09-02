@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "bc97eecab72e961a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f3892798d43a108",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df8db1c8b6d5b26e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "doc/cmd-git.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "cmd-git"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b82e6c1d5fc909c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8dd14eebb58104b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34fcb569c7163f5f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "b87f96ce3bb382ee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "bc58532c0e0c6df1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "319e3574afc6a55d",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbb3b71c8873508e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "966fc83d1c316cb4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "demo/sub/2024-12-01-demo1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2024-12-01-demo1 的反向链接列表"
+            }
+          },
+          {
+            "id": "ae5e34a5fc1b77d3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "demo/sub/2024-12-01-demo1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "2024-12-01-demo1 的出链列表"
+            }
+          },
+          {
+            "id": "23ff02b5bd72d76c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "130ad577c2a48dfb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "demo/sub/2024-12-01-demo1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "2024-12-01-demo1 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false
+    }
+  },
+  "active": "df8db1c8b6d5b26e",
+  "lastOpenFiles": [
+    "doc/cmd-yt-dlp.md",
+    "music/2024-12-03-music-m1.md",
+    "fourthEnginner/2025-02-12-en-audio.md",
+    "fourthEnginner/2025-02-18-en-oral.md",
+    "fourthEnginner/2025-02-19-en-read.md",
+    "fourthEnginner/2025-02-19-en-read-1.md",
+    "fourthEnginner/2025-02-24-gl.md",
+    "fourthEnginner/2025-02-25-jg.md",
+    "2024-12-01-demo1.md",
+    "Templates/template-blog.md",
+    "Templates",
+    "fourthEnginner/2025-2-5-en-Q&A.md",
+    "english/2025-08-17-NGSL.md",
+    "2024-12-03-diary.md",
+    "english/2025-05-20-oral.md",
+    "english/2024-12-08-pronunciaiton.md",
+    "demo/sub",
+    "未命名/未命名",
+    "doc/cmd.md",
+    "demo"
+  ]
+}
